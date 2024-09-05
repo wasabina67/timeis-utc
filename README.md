@@ -1,2 +1,2 @@
 # timeis-utc
-aa
+A simple UTC clock app ⏰
